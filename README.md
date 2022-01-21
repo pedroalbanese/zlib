@@ -1,4 +1,4 @@
-# xz
+# ZLIB
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/zlib/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/zlib?status.png)](http://godoc.org/github.com/pedroalbanese/zlib)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/zlib)](https://goreportcard.com/report/github.com/pedroalbanese/zlib)
