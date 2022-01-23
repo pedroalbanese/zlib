@@ -1,6 +1,7 @@
 # zlib
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/zlib/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/zlib?status.png)](http://godoc.org/github.com/pedroalbanese/zlib)
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/zlib/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/zlib/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/zlib)](https://goreportcard.com/report/github.com/pedroalbanese/zlib)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/zlib)](https://golang.org)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/zlib)](https://github.com/pedroalbanese/zlib/releases)
