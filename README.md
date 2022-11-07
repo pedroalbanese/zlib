@@ -17,7 +17,7 @@ Compress or uncompress FILE (by default, compress FILE in-place).
   -h    print this help message
   -k    keep original files unchanged
   -s string
-        use provided suffix on compressed files (default "zlib")
+        use provided suffix on compressed files (default "zz")
 
 With no FILE, or when FILE is -, read standard input.</pre>
 
