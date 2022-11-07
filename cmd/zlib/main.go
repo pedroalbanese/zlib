@@ -21,7 +21,7 @@ var (
 	force      = flag.Bool("f", false, "force overwrite of output file")
 	help       = flag.Bool("h", false, "print this help message")
 	keep       = flag.Bool("k", false, "keep original files unchanged")
-	suffix     = flag.String("s", "zlib", "use provided suffix on compressed files")
+	suffix     = flag.String("s", "zz", "use provided suffix on compressed files")
 	cores      = flag.Int("cores", 1, "number of cores to use for parallelization")
 
 	stdin bool
